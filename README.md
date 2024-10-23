@@ -1,1 +1,1 @@
-This is a machine learning project
+This is a machine learning project focusing on diabetes prediction where we atre training a linear model with Support Vector Machine classifier with the help of various modules like numpy,pandas,skitlearn.
